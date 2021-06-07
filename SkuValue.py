@@ -1,0 +1,3 @@
+
+class SkuValue:
+    pass
